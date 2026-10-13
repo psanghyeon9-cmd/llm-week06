@@ -1,0 +1,10 @@
+{
+  "python_version": "3.13.15",
+  "platform": "Windows",
+  "pipeline_command": "py -X utf8 assignment2/run_pipeline.py --seed 42 --output-dir assignment2/evidence",
+  "test_command": "py -X utf8 -m unittest discover -s assignment2 -p test_pipeline.py -v",
+  "seed": 42,
+  "pipeline_exit_code": 0,
+  "test_exit_code": 0,
+  "screenshots": "VS Code 실행 화면 캡처는 사용자 첨부 대기"
+}

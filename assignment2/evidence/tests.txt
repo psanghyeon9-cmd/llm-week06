@@ -1,0 +1,14 @@
+test_csv_bom_and_missing_column (test_pipeline.PipelineTests.test_csv_bom_and_missing_column) ... ok
+test_fence_recovers_but_other_malformed_responses_fail (test_pipeline.PipelineTests.test_fence_recovers_but_other_malformed_responses_fail) ... ok
+test_full_dataset_is_reproducible_and_balanced (test_pipeline.PipelineTests.test_full_dataset_is_reproducible_and_balanced) ... ok
+test_invalid_inputs_count_as_failures_without_call (test_pipeline.PipelineTests.test_invalid_inputs_count_as_failures_without_call) ... ok
+test_normal_classroom_outputs_unchanged (test_pipeline.PipelineTests.test_normal_classroom_outputs_unchanged) ... ok
+test_parser_does_not_trust_mock_metadata (test_pipeline.PipelineTests.test_parser_does_not_trust_mock_metadata) ... ok
+test_probability_boundary (test_pipeline.PipelineTests.test_probability_boundary) ... ok
+test_processing_continues_after_failed_rows (test_pipeline.PipelineTests.test_processing_continues_after_failed_rows) ... ok
+test_schema_validation (test_pipeline.PipelineTests.test_schema_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.005s
+
+OK

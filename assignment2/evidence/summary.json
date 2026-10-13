@@ -1,0 +1,23 @@
+{
+  "processed": 200,
+  "success": 175,
+  "failed": 25,
+  "injection_probability": 0.2,
+  "normal": 158,
+  "malformed": 42,
+  "malformed_by_kind": {
+    "code_fence": 17,
+    "preamble": 15,
+    "truncated": 10
+  },
+  "recovered_code_fence": 17,
+  "invalid_input": 0,
+  "invalid_response": 25,
+  "categories": {
+    "기타": 113,
+    "배송": 41,
+    "품질": 16,
+    "환불": 5
+  },
+  "seed": 42
+}
