@@ -1,0 +1,12 @@
+git check-ignore -v --no-index .env .env.local .env.example
+.gitignore:5:.env	.env
+.gitignore:6:.env.*	.env.local
+.gitignore:7:!.env.example	.env.example
+
+.env.example is allowed by the negation rule, not ignored.
+
+git ls-files (environment files only)
+(none)
+
+Reachable commits inspected: 5
+Tracked environment files in history: 0
