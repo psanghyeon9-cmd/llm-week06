@@ -1,6 +1,6 @@
 # 실행 화면 캡처
 
-[run_seed42.png](run_seed42.png)는 사용자가 직접 실행한 터미널 화면입니다. 다음 명령과 전체 요약을 확인할 수 있습니다.
+[run_seed42.png](run_seed42.png)는 직접 실행한 터미널 화면입니다. 다음 명령과 전체 요약을 확인할 수 있습니다.
 
 ```powershell
 py -X utf8 assignment2/run_pipeline.py --seed 42 --output-dir assignment2/evidence
